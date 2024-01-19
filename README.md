@@ -1,2 +1,2 @@
 # COS20019-Cloud-Computing
-Semester 2, 2023, by Khoa Le
+Swinburne Semester 2, 2023, by Khoa Le
